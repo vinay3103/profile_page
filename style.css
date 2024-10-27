@@ -1,12 +1,12 @@
 body{
-    background-size: fill;
+    background-size: cover;
     padding-left: 35%;
     padding-right: 25%;
     padding-top: 8%;
     padding-bottom: 10%;
     background-image: url('./background.jpg');
     background-repeat: no-repeat;
-    background-position: fill;
+    background-position: center;
     
 }
 
