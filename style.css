@@ -77,6 +77,9 @@ p{
 a{
     color: black;
 }
+i{
+    padding-right:12px;
+}
 .copyright{
     display:bottom;
     font-size: 18px;
